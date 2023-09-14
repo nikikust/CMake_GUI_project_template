@@ -11,6 +11,8 @@ file(COPY imgui.ini DESTINATION ${CMAKE_BINARY_DIR})
 
 find_package(Threads REQUIRED)
 
+add_subdirectory(third_party)
+
 include_directories(
 	Include/
     ${CMAKE_BINARY_DIR}/_deps/imgui-src/
@@ -20,8 +22,6 @@ include_directories(
     ${CMAKE_BINARY_DIR}/_deps/sfml-src/include/
     ${CMAKE_BINARY_DIR}/_deps/nlohmann-json-src/include/
 )
-
-add_subdirectory(third_party)
 
 
 add_library(functions STATIC
