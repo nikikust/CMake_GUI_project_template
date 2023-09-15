@@ -1,12 +1,6 @@
 #pragma once
 #include "../../Include/Utils/Functions.h"
 
-#include <thread>
-
-
-#define SPRITES_AMOUNT_HORIZONTAL 10
-#define SPRITES_AMOUNT_VERTICAL   10
-
 
 struct DataStorage
 {
