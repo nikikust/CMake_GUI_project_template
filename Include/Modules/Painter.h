@@ -1,7 +1,6 @@
 #pragma once
-#include "../../Include/DataOperations/DataStorage.h"
-
-#include "Window.h"
+#include <DataOperations/DataStorage.h>
+#include <Modules/Window.h>
 
 
 class Painter

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#include "../Include/Template.h"
+#include <Template.h>
 
 
 TemplateApp::TemplateApp(const std::string& app_title)

@@ -1,8 +1,7 @@
 #pragma once
-#include "../../Include/DataOperations/DataStorage.h"
-#include "../../Include/DataOperations/DataLoader.h"
-
-#include "Window.h"
+#include <DataOperations/DataStorage.h>
+#include <DataOperations/DataLoader.h>
+#include <Modules/Window.h>
 
 
 class Interface

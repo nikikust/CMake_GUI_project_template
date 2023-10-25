@@ -15,12 +15,12 @@
  */
 
 #pragma once
-#include "../Include/DataOperations/DataLoader.h"
-#include "../Include/DataOperations/DataEditor.h"
+#include <DataOperations/DataLoader.h>
+#include <DataOperations/DataEditor.h>
 
-#include "../Include/Modules/Interface.h"
-#include "../Include/Modules/Renderer.h"
-#include "../Include/Modules/Window.h"
+#include <Modules/Interface.h>
+#include <Modules/Renderer.h>
+#include <Modules/Window.h>
 
 
 class TemplateApp

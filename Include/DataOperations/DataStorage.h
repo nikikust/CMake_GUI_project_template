@@ -1,5 +1,5 @@
 #pragma once
-#include "../../Include/Utils/Functions.h"
+#include <Utils/Functions.h>
 
 
 struct DataStorage

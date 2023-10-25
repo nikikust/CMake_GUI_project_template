@@ -1,4 +1,4 @@
-#include "../../Include/Modules/Interface.h"
+#include <Modules/Interface.h>
 
 
 Interface::Interface(DataStorage& data_storage, DataLoader& data_loader, Window& window)

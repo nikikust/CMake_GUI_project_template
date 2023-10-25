@@ -1,8 +1,7 @@
 #pragma once
-#include "../../Include/DataOperations/DataStorage.h"
-#include "../../Include/DataOperations/DataLoader.h"
-
-#include "Painter.h"
+#include <DataOperations/DataStorage.h>
+#include <DataOperations/DataLoader.h>
+#include <Modules/Painter.h>
 
 
 class Renderer

@@ -1,4 +1,4 @@
-#include "../../Include/Modules/Window.h"
+#include <Modules/Window.h>
 
 
 Window::Window(DataStorage& data_storage, const std::string window_title)

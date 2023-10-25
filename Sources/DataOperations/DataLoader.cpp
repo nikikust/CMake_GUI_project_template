@@ -1,4 +1,4 @@
-#include "../../Include/DataOperations/DataLoader.h"
+#include <DataOperations/DataLoader.h>
 
 
 DataLoader::DataLoader(DataStorage& data_storage)

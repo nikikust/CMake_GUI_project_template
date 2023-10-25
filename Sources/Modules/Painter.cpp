@@ -1,4 +1,4 @@
-#include "../../Include/Modules/Painter.h"
+#include <Modules/Painter.h>
 
 
 Painter::Painter(DataStorage& data_storage, Window& window)

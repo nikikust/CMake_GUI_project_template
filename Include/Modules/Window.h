@@ -1,5 +1,5 @@
 #pragma once
-#include "../../Include/DataOperations/DataStorage.h"
+#include <DataOperations/DataStorage.h>
 
 
 class Window

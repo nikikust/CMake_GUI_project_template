@@ -1,7 +1,6 @@
 #pragma once
-#include "../../Include/Modules/Window.h"
-
-#include "DataStorage.h"
+#include <Modules/Window.h>
+#include <DataOperations/DataStorage.h>
 
 
 class DataEditor

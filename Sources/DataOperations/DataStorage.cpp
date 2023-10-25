@@ -1,4 +1,4 @@
-#include "../../Include/DataOperations/DataStorage.h"
+#include <DataOperations/DataStorage.h>
 
 
 DataStorage::DataStorage()
